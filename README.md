@@ -4,5 +4,7 @@ from today onwards
 what i learn in command i write out there
 npm start froentend 
 npm rund dev backend
+npm start
+
 
 Author- Vaibhav
